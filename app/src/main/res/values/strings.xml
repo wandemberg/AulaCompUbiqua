@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Aula2CompUbiqua</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_calcula_imc">CalculaImc</string>
+    <string-array name="sexo_arrays">
+        <item>Masculino</item>
+        <item>Feminino</item>
+    </string-array>
+
+</resources>
